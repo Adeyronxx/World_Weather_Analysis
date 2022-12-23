@@ -12,7 +12,12 @@
  
 
 # Resources
-  Data Source: citipy, jupyter-gmaps, OpenWeatherMap API, Google Maps and Places API, Google Maps Directions API
+ 
+ * citipy
+ * jupyter-gmaps
+ * OpenWeatherMap API
+ * Google Maps and Places API
+ * Google Maps Directions API
 
 # Results
 
@@ -43,3 +48,8 @@ This is shown in the images below;
 
 <img width="909" alt="generating hotel info" src="https://user-images.githubusercontent.com/109445468/197369252-180ad8ba-b85e-47d8-88d2-2eda15b6dba1.png">
 <img width="1022" alt="Screen Shot 2022-10-22 at 8 05 49 PM" src="https://user-images.githubusercontent.com/109445468/197369440-1ca919ab-0f0f-41d7-afd6-c1b627a69b07.png">
+
+
+# Summary
+
+From the results above I was able to reach the goal as outlined by the purpose of the project above. This information can be used by individuals to create an Itinery on their vacation.
